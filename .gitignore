@@ -1,0 +1,6 @@
+querycave.o
+querycave.bin
+patchtest.dylib
+GeForceGLDriverWeb.patched
+.DS_Store
+repro
